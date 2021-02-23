@@ -1,0 +1,92 @@
+
+.Titulo{
+    font-size: 15pt;
+    text-align: center;
+    background: rgb(204, 68, 74);
+    background-size: 100% 100%;
+    height: 60%;
+    color: white;
+    padding-top: 2%;
+}
+.Multimedia {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right:4%;
+    overflow: hidden;
+}
+.Imagenes{
+    float: left;
+    width: 55%;
+    height: 50%;
+    padding-right: 2%;
+}
+.Video{
+    float: left;
+    width: 45%;
+    height: 50%;
+    padding-right: 2%;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
+.tituloTabla{
+    background: rgb(204, 68, 74);
+    color: white;
+}
+.Tablas{
+    padding-top: 2%;
+    overflow: hidden;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.tabla1{
+    width: 42%;
+    margin-right: 5%;
+}
+.tabla2{
+    width: 53%;
+}
+.Clasificacion{
+    float:left;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    color: white;
+    margin-top: 5%;
+}
+.caja-texto{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    width: 90%;
+}
+.caja{
+    width: 100%;
+}
+.social{
+    align: center;
+}
+.Copyright{
+    background: rgb(204, 68, 74);
+    height: 100%;
+    color:white;
+}
+.nav-link{
+    color:rgb(204, 68, 74);
+}
+.nav-pills,.p-3{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+.comentar{
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.wd{
+    width:60px;
+}
+
